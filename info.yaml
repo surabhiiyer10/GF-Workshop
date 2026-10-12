@@ -1,10 +1,10 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
   wokwi_id:     477698432252631041       # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        "GF AND Gate"      # Project title
+  title:        "GF OR Gate"      # Project title
   author:       "Surabhi and Zitong"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "A single AND gate"      # One line description of what your project does
+  description:  "A single OR gate"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
